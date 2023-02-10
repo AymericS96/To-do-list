@@ -1,0 +1,26 @@
+body {
+    background-color: #4866d1;
+    color: white;
+    /* Importer police Aileron-Regular */
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+}
+
+div {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+div>input+label {
+    cursor: pointer;
+}
+
+.tache input {
+    height: 20px;
+    width: 20px;
+    background-color: #eee;
+    margin: 0px 3px 0px 0px;
+}
